@@ -5,12 +5,20 @@
     <link>https://jayye99.github.io/</link>
       <atom:link href="https://jayye99.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Junjie Ye</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2019 - 2021 Junjie Ye. All Rights Reserved.</copyright><lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2019 - 2021 Junjie Ye. All Rights Reserved.</copyright><lastBuildDate>Thu, 22 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jayye99.github.io/images/icon_hu9902be2b97aa5e307a6e65af56d961d4_168654_512x512_fill_lanczos_center_2.png</url>
       <title>Junjie Ye</title>
       <link>https://jayye99.github.io/</link>
     </image>
+    
+    <item>
+      <title>HiFT: Hierarchical Feature Transformer for Siamese Aerial Tracking</title>
+      <link>https://jayye99.github.io/publication/2021_iccv_hift/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://jayye99.github.io/publication/2021_iccv_hift/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DarkLighter: Light up the Darkness for UAV Tracking</title>
